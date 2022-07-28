@@ -1,0 +1,2 @@
+# SmartAttendanceSystem
+This project is about smart attendance system using face recognition.A facial recognition is a computer application for automatically identifying or verifying a person from a digital image or a video frame from a video source.One of the ways to do this is by comparing selected facial features from the image and a facial database.Open CV and Dlib using python are the basic requirements for this system.
